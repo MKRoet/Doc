@@ -1,4 +1,4 @@
-potatohead-android-app
+**potatohead-android-app**
 
 Maurice Roet
 
